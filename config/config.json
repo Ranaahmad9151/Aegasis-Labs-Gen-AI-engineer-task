@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "hubspot_api_key": "YOUR_HUBSPOT_API_KEY",
+  "sendgrid_api_key": "YOUR_SENDGRID_API_KEY",
+  "sender_email": "your@email.com"
+}

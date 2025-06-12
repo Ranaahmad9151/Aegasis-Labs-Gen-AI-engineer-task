@@ -1,0 +1,23 @@
+# Core AI Libraries
+openai
+langchain
+langgraph
+
+# CRM Integration
+hubspot-api-client
+
+# Email Integration (SendGrid or similar)
+sendgrid
+
+# Utility Libraries
+pydantic
+python-dotenv
+
+# HTTP & JSON handling
+requests
+
+# Logging & Debugging (optional)
+loguru
+
+# For compatibility
+tqdm
